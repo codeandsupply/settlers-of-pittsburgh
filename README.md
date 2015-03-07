@@ -6,6 +6,8 @@ Works across multiple devices (desktops, tablets, and mobile phones).
 
 ![Screenshot](http://i.imgur.com/j91XT2y.png)
 
+Forked from [https://github.com/colonizers/colonizers](https://github.com/colonizers/colonizers).
+
 
 ## A work in progress!
 
