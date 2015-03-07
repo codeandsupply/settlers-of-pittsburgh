@@ -1,0 +1,23 @@
+{
+  "name": "colonizers",
+  "license": "AGPL-3.0",
+  "author": "Simon Bartlett",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js | bunyan -o short"
+  },
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.6.x"
+  },
+  "dependencies": {
+    "bunyan": "^1.2.3",
+    "colonizers-client": "git://github.com/colonizers/colonizers-client",
+    "colonizers-client-tilesets": "git://github.com/colonizers/colonizers-client-tilesets",
+    "colonizers-server": "git://github.com/colonizers/colonizers-server",
+    "nconf": "^0.7.1"
+  }
+}
